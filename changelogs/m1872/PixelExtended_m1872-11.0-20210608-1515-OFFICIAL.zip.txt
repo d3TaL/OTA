@@ -1,5 +1,1 @@
-Update 2021/06/08
-intial (Un)official OTA service
-Fixed FOD blinks
-Fixed bugs with recent menu
-Change channel OTA.
+Changelog - 2021/06/08

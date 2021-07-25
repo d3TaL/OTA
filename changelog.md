@@ -1,5 +1,45 @@
 # Changelog
 
+  # V2.9 (15.07.2021) ACE !
+  
+  - Patches And FP Updated to July 
+  - Cleaned and Rebased whole sauce to Pixel Exp. Plus Version
+  - Re: Added Ability to hide statusbar in Lockscreen 
+  - Added Android 12 switch styles 
+  - Added Android 12 Clock Styles
+  - Added Fluid V2 clock styles
+  - Moved Battery Icon To QS header
+  - Added BS slider Customizations 
+  - Introduced OOS/ShapeShift and P404 vol panels
+  - Intrduced Dynamic Volte Icon
+  - Added Volume Buttons Customizations
+  - Added Hardware Buttons Customizations
+  - Added Quick QS Pull Down
+  - Fixed Net Traff !
+  - Fixed QS Blur optimisation (real glass feel now)
+  - Fixed Statusbar Brightness Contorl 
+  - Some Feature are removed nd cleaned cz they were causing System Instability i.e. Media player toogle and Adv. Gestures , might add these in future updates .
+  
+  # V2.8 (19.06.2021) Broken Patches 
+  
+  - Patches and FP updated to June !
+  - Android 12 and OOS qs tint style 
+  - Improvments to 3 finger SS
+  - Redesigned Volume Panel From AOSPA
+  - Colored StatusBar icons 
+  - Implemented Descendant Seamless Clock Switch 
+  - Fixed net traff after an overlay change
+  - Updated ASUS stitch image and made it default SS service
+  - Redesigned Pocket mode view like OOS
+  - Fixed Overlays getting reset after a reboot
+  - Fixed StatusBar DT2S toogle
+  - Fixes to LS Custom Clocks
+  - Added OnePlus LockScreen Clocks
+  - Allow changing face unlock method when locked 
+  - Added toggle to completely hide status bar on lockscreen
+  - Added SystemWide Font Service from Carbon 
+  - Cleaned sources a lil bit 
+
   # V2.7 (16.04.2021) May Patch and OTA 
 
  - Patches And Fingerprints Updated to May 
